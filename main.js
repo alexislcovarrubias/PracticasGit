@@ -1,6 +1,6 @@
-<script>
-var age = 18;
-var ella = 'El señor';
-var el = 'La señora';
-document.write(ella + " tiene " + age + " años\n");
-document.write(el + " tiene " + age + " años");
+
+var num1=8;
+var num2=10;
+var resultado=0;
+
+document.write(resultado=num1+num2);
